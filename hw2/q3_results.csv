@@ -1,0 +1,3 @@
+Model,Selected parameter,Training MSE,Validation MSE
+RKS,sigma=3,0.03237532773918823,0.0367234141726452
+One-hidden-layer MLP,width=64,0.033056720410699326,0.03570391470249055
